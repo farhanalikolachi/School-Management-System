@@ -1,0 +1,6 @@
+{
+  "name": "SindhTech Institute Management System",
+  "description": "SindhTech Institute Academy & Professional Training Center Management System in Pakistan with role-based Admin, Teacher, and Student portals, auto-saved credentials Excel ledger, multilingual AI agent, fee tracking, attendance, exams, and ID cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
